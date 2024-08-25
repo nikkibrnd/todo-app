@@ -40,6 +40,7 @@ function Notes() {
     const char = 100;
     const charLimit = char - newTodo.length;
 
+    
     return(
         <div className="App">
             <h1 className="title">Notes App</h1>
